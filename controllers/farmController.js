@@ -1,1 +1,4 @@
-// BErhasil dibuatt
+// BErhasil dibuat
+
+
+// tambah fungsi baru
